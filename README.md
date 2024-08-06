@@ -38,7 +38,7 @@ BOT_TOKEN=your_telegram_bot_token
 7. Run the bot:
 
 ```bash
-npm start
+node index.js
 ```
 
 ## Usage
