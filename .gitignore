@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env.test
+
+# MacOS
+.DS_Store
+
+# Package lock file
+package-lock.json
+
+# TODO
+todo.md
+
